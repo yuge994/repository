@@ -1,0 +1,74 @@
+[
+    {
+        "d": 530927199,
+        "enable": true,
+        "method": "chacha20",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "password3",
+        "port": 7777,
+        "protocol": "auth_sha1_v4",
+        "transfer_enable": 1125899906842624,
+        "u": 23117948,
+        "user": "yuge9994"
+    },
+    {
+        "d": 0,
+        "enable": true,
+        "method": "chacha20",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "password4",
+        "port": 9999,
+        "protocol": "auth_sha1_v4",
+        "transfer_enable": 1125899906842624,
+        "u": 0,
+        "user": "yuge99994"
+    },
+    {
+        "d": 1483031835,
+        "enable": true,
+        "method": "chacha20",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "lichunqin",
+        "port": 11111,
+        "protocol": "auth_sha1_v4",
+        "transfer_enable": 1125899906842624,
+        "u": 88340111,
+        "user": "lichunqin"
+    },
+    {
+        "d": 0,
+        "enable": true,
+        "method": "chacha20",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "zhaojing",
+        "port": 11112,
+        "protocol": "auth_sha1_v4",
+        "transfer_enable": 1125899906842624,
+        "u": 0,
+        "user": "zhaojing"
+    },
+    {
+        "d": 450578610,
+        "enable": true,
+        "method": "chacha20",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "tangtang",
+        "port": 9998,
+        "protocol": "auth_sha1_v4",
+        "transfer_enable": 1125899906842624,
+        "u": 51313392,
+        "user": "tangtang"
+    },
+    {
+        "d": 1244843377,
+        "enable": true,
+        "method": "chacha20",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "fangxu",
+        "port": 9997,
+        "protocol": "auth_sha1_v4",
+        "transfer_enable": 1125899906842624,
+        "u": 40933295,
+        "user": "fangxu"
+    }
+]
